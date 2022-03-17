@@ -1,4 +1,4 @@
-# Reccurent-Neural-Networks
+# Recurrent-Neural-Networks
 # Step 1. Business Understanding
 # a) Specifying the Research Question
 Build a recurrent neural networks model that will be used to predict Tesla stock prices in 2017 using data from 2012-2016
